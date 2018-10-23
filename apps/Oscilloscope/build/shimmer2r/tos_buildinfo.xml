@@ -1,0 +1,8 @@
+<metrics>
+  <ram>24</ram>
+  <shimmer2r-ram>24</shimmer2r-ram>
+  <flash>16020</flash>
+  <shimmer2r-flash>16020</shimmer2r-flash>
+  <stack>462</stack>
+  <shimmer2r-stack>462</shimmer2r-stack>
+</metrics>
