@@ -1,13 +1,13 @@
 <tos_image>
   <ident>
+    <uidhash>B3C1D0C9L</uidhash>
+    <appname>BtStreamAppC</appname>
+    <userhash>14B1C085L</userhash>
     <platform>shimmer2r</platform>
-    <uidhash>6A10B1D6L</uidhash>
     <hostname>kristtopher-PC</hostname>
     <deluge_support>no</deluge_support>
-    <timestamp>5BA9711CL</timestamp>
-    <userhash>14B1C085L</userhash>
-    <appname>BtStreamAppC</appname>
     <username>root</username>
+    <timestamp>5BD0C529L</timestamp>
   </ident>
   <image format="ihex">
 :104000005542200135D0085A82456C18314000399C

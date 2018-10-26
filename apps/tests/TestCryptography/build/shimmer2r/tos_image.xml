@@ -1,12 +1,12 @@
 <tos_image>
   <ident>
-    <userhash>14B1C085L</userhash>
-    <username>root</username>
-    <deluge_support>no</deluge_support>
-    <uidhash>7F531BEBL</uidhash>
-    <timestamp>5BCE4688L</timestamp>
     <platform>shimmer2r</platform>
     <appname>TestCryptAppC</appname>
+    <timestamp>5BD0C9D4L</timestamp>
+    <uidhash>FE032DAFL</uidhash>
+    <username>root</username>
+    <userhash>14B1C085L</userhash>
+    <deluge_support>no</deluge_support>
     <hostname>kristtopher-PC</hostname>
   </ident>
   <image format="ihex">
