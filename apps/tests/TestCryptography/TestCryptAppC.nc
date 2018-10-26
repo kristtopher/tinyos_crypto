@@ -56,4 +56,3 @@ implementation {
   components new TimerMilliC();
   TestCryptC.Timer -> TimerMilliC;
 }
-
